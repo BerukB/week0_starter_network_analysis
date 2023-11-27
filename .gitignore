@@ -81,6 +81,7 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+anonymized_new/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
